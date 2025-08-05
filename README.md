@@ -1,5 +1,6 @@
 # Drone Dance Dialog
 
+![Architecture PReview](extras/Overview.png)
 ![Project Preview](extras/Control.png)
 
 An **open source application** designed for **motion capture, choreographing and visualizing drones** accurately in space using the **OptiTrack system**.  
